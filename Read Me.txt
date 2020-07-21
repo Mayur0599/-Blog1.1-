@@ -1,0 +1,21 @@
+                          Blog 
+It is a Java-Project. In which user can sign-up & login post technology Related Contain.
+This Project is Developed .Using different Technology 
+//Front-End
+Html-5,Jsp
+Bootstrap-4.2,
+css,
+JavaScript,
+MyOwnCreateJs Lib,//for sharing json to serverside
+Jquery
+..so on
+
+//back-end
+Java(java-Servlet)
+
+//Server
+Apache Tomacat(localhost) 
+
+//Database
+Mysql with the help of WorkBench 8.2
+   
